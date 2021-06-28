@@ -80,8 +80,8 @@ Download and install Oracle's Thin [ojdbc7.12.1.0.2.jar](http://www.oracle.com/t
 {
   "type": "jdbc",
   "enabled": true,
-  "driver:" "oracle.jdbc.OracleDriver",
-  "url:" "jdbc:oracle:thin:user/password@1.2.3.4:1521/ORCL"
+  "driver": "oracle.jdbc.OracleDriver",
+  "url": "jdbc:oracle:thin:user/password@1.2.3.4:1521/ORCL"
 }
 ```
 
